@@ -91,11 +91,6 @@ Contributions are welcome!
 Feel free to fork the repository, create a pull request (PR), and contribute. 🚀  
 
 
-##  License
-
-[MIT](https://choosealicense.com/licenses/mit/) © [Gagan Raj B K](https://github.com/AdityaSuresh013)
-- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Author
 
 - [Gagan Raj B K](https://github.com/GaganRajBK))
